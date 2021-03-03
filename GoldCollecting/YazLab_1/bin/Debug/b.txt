@@ -1,0 +1,260 @@
+AÇIK ALTIN ve MADEN YAPISI	
+0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	20	0	0	
+
+0	0	0	0	10	0	0	0	0	0	5	0	10	0	0	0	0	0	0	0	
+
+0	0	0	0	0	0	0	0	0	0	20	0	10	10	5	0	0	20	15	0	
+
+0	0	10	0	10	0	0	0	0	20	0	0	0	0	0	0	0	0	0	0	
+
+0	0	0	0	0	0	0	0	20	15	15	0	0	0	0	0	0	20	0	0	
+
+0	0	0	0	10	20	10	10	0	0	0	0	0	0	0	15	0	0	0	0	
+
+0	0	0	0	0	0	0	0	0	15	0	0	0	5	0	0	0	0	0	0	
+
+0	0	10	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+0	0	0	0	0	0	5	0	0	20	0	0	0	0	0	20	0	15	0	0	
+
+0	15	0	0	0	0	0	5	0	0	0	0	0	0	0	10	0	0	0	0	
+
+0	0	0	0	10	5	0	0	5	0	0	0	0	0	0	0	20	0	0	0	
+
+0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	20	0	0	0	
+
+0	0	15	0	0	20	20	0	0	0	20	0	0	0	0	0	15	0	0	10	
+
+0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	20	
+
+0	0	0	0	0	0	0	5	15	5	0	0	0	0	0	10	0	0	10	0	
+
+0	0	0	15	0	0	0	0	0	0	0	5	0	0	0	0	0	20	0	10	
+
+0	20	0	0	0	0	0	0	0	0	0	15	0	5	0	0	15	0	10	0	
+
+0	0	0	0	0	0	0	0	0	10	0	0	0	0	5	0	0	0	15	0	
+
+0	0	0	5	0	10	0	0	0	20	0	10	0	0	0	0	0	0	0	20	
+
+0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	5	20	0	0	
+
+HEDEF BELİRLENDİ| X:0	Y:17	HAMLE SAYISI:2
+Y koordinatı bir adım azalır. Sol yönlüdür.
+Y koordinatı bir adım azalır. Sol yönlüdür.
+HEDEFE ULAŞIR.
+Hamle Hakkı Bitince Konumu| X:0	Y:17	Hedefe Kalan Hamle Sayısı:0
+HEDEF BELİRLENDİ| X:2	Y:17	HAMLE SAYISI:2
+X koordinatı bir adım artar. Aşağı yönlüdür.
+X koordinatı bir adım artar. Aşağı yönlüdür.
+HEDEFE ULAŞIR.
+Hamle Hakkı Bitince Konumu| X:2	Y:17	Hedefe Kalan Hamle Sayısı:0
+HEDEF BELİRLENDİ| X:4	Y:17	HAMLE SAYISI:2
+X koordinatı bir adım artar. Aşağı yönlüdür.
+X koordinatı bir adım artar. Aşağı yönlüdür.
+HEDEFE ULAŞIR.
+Hamle Hakkı Bitince Konumu| X:4	Y:17	Hedefe Kalan Hamle Sayısı:0
+HEDEF BELİRLENDİ| X:2	Y:18	HAMLE SAYISI:3
+Y koordinatı bir adım artar. Sağ yönlüdür.
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+HEDEFE ULAŞIR.
+Hamle Hakkı Bitince Konumu| X:2	Y:18	Hedefe Kalan Hamle Sayısı:0
+HEDEF BELİRLENDİ| X:5	Y:15	HAMLE SAYISI:6
+Y koordinatı bir adım azalır. Sol yönlüdür.
+Y koordinatı bir adım azalır. Sol yönlüdür.
+Y koordinatı bir adım azalır. Sol yönlüdür.
+Hamle Hakkı Bitince Konumu| X:2	Y:15	Hedefe Kalan Hamle Sayısı:3
+X koordinatı bir adım artar. Aşağı yönlüdür.
+X koordinatı bir adım artar. Aşağı yönlüdür.
+X koordinatı bir adım artar. Aşağı yönlüdür.
+HEDEFE ULAŞIR.
+Hamle Hakkı Bitince Konumu| X:5	Y:15	Hedefe Kalan Hamle Sayısı:0
+HEDEF BELİRLENDİ| X:8	Y:15	HAMLE SAYISI:3
+X koordinatı bir adım artar. Aşağı yönlüdür.
+X koordinatı bir adım artar. Aşağı yönlüdür.
+X koordinatı bir adım artar. Aşağı yönlüdür.
+HEDEFE ULAŞIR.
+Hamle Hakkı Bitince Konumu| X:8	Y:15	Hedefe Kalan Hamle Sayısı:0
+HEDEF BELİRLENDİ| X:10	Y:16	HAMLE SAYISI:3
+Y koordinatı bir adım artar. Sağ yönlüdür.
+X koordinatı bir adım artar. Aşağı yönlüdür.
+X koordinatı bir adım artar. Aşağı yönlüdür.
+HEDEFE ULAŞIR.
+Hamle Hakkı Bitince Konumu| X:10	Y:16	Hedefe Kalan Hamle Sayısı:0
+HEDEF BELİRLENDİ| X:8	Y:17	HAMLE SAYISI:3
+Y koordinatı bir adım artar. Sağ yönlüdür.
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+HEDEFE ULAŞIR.
+Hamle Hakkı Bitince Konumu| X:8	Y:17	Hedefe Kalan Hamle Sayısı:0
+HEDEF BELİRLENDİ| X:9	Y:15	HAMLE SAYISI:3
+Y koordinatı bir adım azalır. Sol yönlüdür.
+Y koordinatı bir adım azalır. Sol yönlüdür.
+X koordinatı bir adım artar. Aşağı yönlüdür.
+HEDEFE ULAŞIR.
+Hamle Hakkı Bitince Konumu| X:9	Y:15	Hedefe Kalan Hamle Sayısı:0
+HEDEF BELİRLENDİ| X:10	Y:13	HAMLE SAYISI:3
+Y koordinatı bir adım azalır. Sol yönlüdür.
+Y koordinatı bir adım azalır. Sol yönlüdür.
+X koordinatı bir adım artar. Aşağı yönlüdür.
+HEDEFE ULAŞIR.
+Hamle Hakkı Bitince Konumu| X:10	Y:13	Hedefe Kalan Hamle Sayısı:0
+HEDEF BELİRLENDİ| X:8	Y:9	HAMLE SAYISI:6
+Y koordinatı bir adım azalır. Sol yönlüdür.
+Y koordinatı bir adım azalır. Sol yönlüdür.
+Y koordinatı bir adım azalır. Sol yönlüdür.
+Hamle Hakkı Bitince Konumu| X:10	Y:10	Hedefe Kalan Hamle Sayısı:3
+Y koordinatı bir adım azalır. Sol yönlüdür.
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+HEDEFE ULAŞIR.
+Hamle Hakkı Bitince Konumu| X:8	Y:9	Hedefe Kalan Hamle Sayısı:0
+HEDEF BELİRLENDİ| X:6	Y:9	HAMLE SAYISI:2
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+HEDEFE ULAŞIR.
+Hamle Hakkı Bitince Konumu| X:6	Y:9	Hedefe Kalan Hamle Sayısı:0
+HEDEF BELİRLENDİ| X:4	Y:10	HAMLE SAYISI:3
+Y koordinatı bir adım artar. Sağ yönlüdür.
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+HEDEFE ULAŞIR.
+Hamle Hakkı Bitince Konumu| X:4	Y:10	Hedefe Kalan Hamle Sayısı:0
+HEDEF BELİRLENDİ| X:18	Y:16	HAMLE SAYISI:20
+Y koordinatı bir adım artar. Sağ yönlüdür.
+Y koordinatı bir adım artar. Sağ yönlüdür.
+Y koordinatı bir adım artar. Sağ yönlüdür.
+Hamle Hakkı Bitince Konumu| X:4	Y:13	Hedefe Kalan Hamle Sayısı:17
+Y koordinatı bir adım artar. Sağ yönlüdür.
+Y koordinatı bir adım artar. Sağ yönlüdür.
+Y koordinatı bir adım artar. Sağ yönlüdür.
+Hamle Hakkı Bitince Konumu| X:4	Y:16	Hedefe Kalan Hamle Sayısı:14
+X koordinatı bir adım artar. Aşağı yönlüdür.
+X koordinatı bir adım artar. Aşağı yönlüdür.
+X koordinatı bir adım artar. Aşağı yönlüdür.
+Hamle Hakkı Bitince Konumu| X:7	Y:16	Hedefe Kalan Hamle Sayısı:11
+X koordinatı bir adım artar. Aşağı yönlüdür.
+X koordinatı bir adım artar. Aşağı yönlüdür.
+X koordinatı bir adım artar. Aşağı yönlüdür.
+Hamle Hakkı Bitince Konumu| X:10	Y:16	Hedefe Kalan Hamle Sayısı:8
+X koordinatı bir adım artar. Aşağı yönlüdür.
+X koordinatı bir adım artar. Aşağı yönlüdür.
+X koordinatı bir adım artar. Aşağı yönlüdür.
+Hamle Hakkı Bitince Konumu| X:13	Y:16	Hedefe Kalan Hamle Sayısı:5
+X koordinatı bir adım artar. Aşağı yönlüdür.
+X koordinatı bir adım artar. Aşağı yönlüdür.
+X koordinatı bir adım artar. Aşağı yönlüdür.
+Hamle Hakkı Bitince Konumu| X:16	Y:16	Hedefe Kalan Hamle Sayısı:2
+X koordinatı bir adım artar. Aşağı yönlüdür.
+X koordinatı bir adım artar. Aşağı yönlüdür.
+HEDEFE ULAŞIR.
+Hamle Hakkı Bitince Konumu| X:18	Y:16	Hedefe Kalan Hamle Sayısı:0
+HEDEF BELİRLENDİ| X:0	Y:6	HAMLE SAYISI:28
+Y koordinatı bir adım azalır. Sol yönlüdür.
+Y koordinatı bir adım azalır. Sol yönlüdür.
+Y koordinatı bir adım azalır. Sol yönlüdür.
+Hamle Hakkı Bitince Konumu| X:18	Y:13	Hedefe Kalan Hamle Sayısı:25
+Y koordinatı bir adım azalır. Sol yönlüdür.
+Y koordinatı bir adım azalır. Sol yönlüdür.
+Y koordinatı bir adım azalır. Sol yönlüdür.
+Hamle Hakkı Bitince Konumu| X:18	Y:10	Hedefe Kalan Hamle Sayısı:22
+Y koordinatı bir adım azalır. Sol yönlüdür.
+Y koordinatı bir adım azalır. Sol yönlüdür.
+Y koordinatı bir adım azalır. Sol yönlüdür.
+Hamle Hakkı Bitince Konumu| X:18	Y:7	Hedefe Kalan Hamle Sayısı:19
+Y koordinatı bir adım azalır. Sol yönlüdür.
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+Hamle Hakkı Bitince Konumu| X:16	Y:6	Hedefe Kalan Hamle Sayısı:16
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+Hamle Hakkı Bitince Konumu| X:13	Y:6	Hedefe Kalan Hamle Sayısı:13
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+Hamle Hakkı Bitince Konumu| X:10	Y:6	Hedefe Kalan Hamle Sayısı:10
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+Hamle Hakkı Bitince Konumu| X:7	Y:6	Hedefe Kalan Hamle Sayısı:7
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+Hamle Hakkı Bitince Konumu| X:4	Y:6	Hedefe Kalan Hamle Sayısı:4
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+Hamle Hakkı Bitince Konumu| X:1	Y:6	Hedefe Kalan Hamle Sayısı:1
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+HEDEFE ULAŞIR.
+Hamle Hakkı Bitince Konumu| X:0	Y:6	Hedefe Kalan Hamle Sayısı:0
+HEDEF BELİRLENDİ| X:19	Y:16	HAMLE SAYISI:29
+Y koordinatı bir adım artar. Sağ yönlüdür.
+Y koordinatı bir adım artar. Sağ yönlüdür.
+Y koordinatı bir adım artar. Sağ yönlüdür.
+Hamle Hakkı Bitince Konumu| X:0	Y:9	Hedefe Kalan Hamle Sayısı:26
+Y koordinatı bir adım artar. Sağ yönlüdür.
+Y koordinatı bir adım artar. Sağ yönlüdür.
+Y koordinatı bir adım artar. Sağ yönlüdür.
+Hamle Hakkı Bitince Konumu| X:0	Y:12	Hedefe Kalan Hamle Sayısı:23
+Y koordinatı bir adım artar. Sağ yönlüdür.
+Y koordinatı bir adım artar. Sağ yönlüdür.
+Y koordinatı bir adım artar. Sağ yönlüdür.
+Hamle Hakkı Bitince Konumu| X:0	Y:15	Hedefe Kalan Hamle Sayısı:20
+Y koordinatı bir adım artar. Sağ yönlüdür.
+X koordinatı bir adım artar. Aşağı yönlüdür.
+X koordinatı bir adım artar. Aşağı yönlüdür.
+Hamle Hakkı Bitince Konumu| X:2	Y:16	Hedefe Kalan Hamle Sayısı:17
+X koordinatı bir adım artar. Aşağı yönlüdür.
+X koordinatı bir adım artar. Aşağı yönlüdür.
+X koordinatı bir adım artar. Aşağı yönlüdür.
+Hamle Hakkı Bitince Konumu| X:5	Y:16	Hedefe Kalan Hamle Sayısı:14
+X koordinatı bir adım artar. Aşağı yönlüdür.
+X koordinatı bir adım artar. Aşağı yönlüdür.
+X koordinatı bir adım artar. Aşağı yönlüdür.
+Hamle Hakkı Bitince Konumu| X:8	Y:16	Hedefe Kalan Hamle Sayısı:11
+X koordinatı bir adım artar. Aşağı yönlüdür.
+X koordinatı bir adım artar. Aşağı yönlüdür.
+X koordinatı bir adım artar. Aşağı yönlüdür.
+Hamle Hakkı Bitince Konumu| X:11	Y:16	Hedefe Kalan Hamle Sayısı:8
+X koordinatı bir adım artar. Aşağı yönlüdür.
+X koordinatı bir adım artar. Aşağı yönlüdür.
+X koordinatı bir adım artar. Aşağı yönlüdür.
+Hamle Hakkı Bitince Konumu| X:14	Y:16	Hedefe Kalan Hamle Sayısı:5
+X koordinatı bir adım artar. Aşağı yönlüdür.
+X koordinatı bir adım artar. Aşağı yönlüdür.
+X koordinatı bir adım artar. Aşağı yönlüdür.
+Hamle Hakkı Bitince Konumu| X:17	Y:16	Hedefe Kalan Hamle Sayısı:2
+X koordinatı bir adım artar. Aşağı yönlüdür.
+X koordinatı bir adım artar. Aşağı yönlüdür.
+HEDEFE ULAŞIR.
+Hamle Hakkı Bitince Konumu| X:19	Y:16	Hedefe Kalan Hamle Sayısı:0
+HEDEF BELİRLENDİ| X:18	Y:3	HAMLE SAYISI:14
+Y koordinatı bir adım azalır. Sol yönlüdür.
+Y koordinatı bir adım azalır. Sol yönlüdür.
+Y koordinatı bir adım azalır. Sol yönlüdür.
+Hamle Hakkı Bitince Konumu| X:19	Y:13	Hedefe Kalan Hamle Sayısı:11
+Y koordinatı bir adım azalır. Sol yönlüdür.
+Y koordinatı bir adım azalır. Sol yönlüdür.
+Y koordinatı bir adım azalır. Sol yönlüdür.
+Hamle Hakkı Bitince Konumu| X:19	Y:10	Hedefe Kalan Hamle Sayısı:8
+Y koordinatı bir adım azalır. Sol yönlüdür.
+Y koordinatı bir adım azalır. Sol yönlüdür.
+Y koordinatı bir adım azalır. Sol yönlüdür.
+Hamle Hakkı Bitince Konumu| X:19	Y:7	Hedefe Kalan Hamle Sayısı:5
+Y koordinatı bir adım azalır. Sol yönlüdür.
+Y koordinatı bir adım azalır. Sol yönlüdür.
+Y koordinatı bir adım azalır. Sol yönlüdür.
+Hamle Hakkı Bitince Konumu| X:19	Y:4	Hedefe Kalan Hamle Sayısı:2
+Y koordinatı bir adım azalır. Sol yönlüdür.
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+HEDEFE ULAŞIR.
+Hamle Hakkı Bitince Konumu| X:18	Y:3	Hedefe Kalan Hamle Sayısı:0
+HEDEF BELİRLENDİ| X:18	Y:5	HAMLE SAYISI:2
+Y koordinatı bir adım artar. Sağ yönlüdür.
+Y koordinatı bir adım artar. Sağ yönlüdür.
+HEDEFE ULAŞIR.
+Hamle Hakkı Bitince Konumu| X:18	Y:5	Hedefe Kalan Hamle Sayısı:0
+KAZILACAK ALTIN KALMADIĞI İÇİN OYUN BİTER!

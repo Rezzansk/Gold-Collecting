@@ -1,0 +1,219 @@
+AÇIK ALTIN ve MADEN YAPISI	
+0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	20	0	0	
+
+0	0	0	0	10	0	0	0	0	0	5	0	10	0	0	0	0	0	0	0	
+
+0	0	0	0	0	0	0	0	0	0	20	0	10	10	5	0	0	20	15	0	
+
+0	0	10	0	10	0	0	0	0	20	0	0	0	0	0	0	0	0	0	0	
+
+0	0	0	0	0	0	0	0	20	15	15	0	0	0	0	0	0	20	0	0	
+
+0	0	0	0	10	20	10	10	0	0	0	0	0	0	0	15	0	0	0	0	
+
+0	0	0	0	0	0	0	0	0	15	0	0	0	5	0	0	0	0	0	0	
+
+0	0	10	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+0	0	0	0	0	0	5	0	0	20	0	0	0	0	0	20	0	15	0	0	
+
+0	15	0	0	0	0	0	5	0	0	0	0	0	0	0	10	0	0	0	0	
+
+0	0	0	0	10	5	0	0	5	0	0	0	0	0	0	0	20	0	0	0	
+
+0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	20	0	0	0	
+
+0	0	15	0	0	20	20	0	0	0	20	0	0	0	0	0	15	0	0	10	
+
+0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	20	
+
+0	0	0	0	0	0	0	5	15	5	0	0	0	0	0	10	0	0	10	0	
+
+0	0	0	15	0	0	0	0	0	0	0	5	0	0	0	0	0	20	0	10	
+
+0	20	0	0	0	0	0	0	0	0	0	15	0	5	0	0	15	0	10	0	
+
+0	0	0	0	0	0	0	0	0	10	0	0	0	0	5	0	0	0	15	0	
+
+0	0	0	5	0	10	0	0	0	20	0	10	0	0	0	0	0	0	0	20	
+
+0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	5	20	0	0	
+
+A oyuncusundan önce erişemeyeceği için A'nın hedefini hesaplamaz. X:1	Y:4
+B oyuncusundan önce erişemeyeceği için B'nın hedefini hesaplamaz. X:0	Y:17
+C oyuncusundan önce erişemeyeceği için C'nın hedefini hesaplamaz. X:16	Y:1
+HEDEF BELİRLENDİ| X:18	Y:19	HAMLE SAYISI:1
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+HEDEFE ULAŞIR.
+Hamle Hakkı Bitince Konumu| X:18	Y:18	Hedefe Kalan Hamle Sayısı:0
+A oyuncusundan önce erişemeyeceği için A'nın hedefini hesaplamaz. X:1	Y:4
+B oyuncusundan önce erişemeyeceği için B'nın hedefini hesaplamaz. X:2	Y:17
+C oyuncusundan önce erişemeyeceği için C'nın hedefini hesaplamaz. X:16	Y:1
+HEDEF BELİRLENDİ| X:19	Y:17	HAMLE SAYISI:3
+Y koordinatı bir adım azalır. Sol yönlüdür.
+Y koordinatı bir adım azalır. Sol yönlüdür.
+X koordinatı bir adım artar. Aşağı yönlüdür.
+HEDEFE ULAŞIR.
+Hamle Hakkı Bitince Konumu| X:19	Y:19	Hedefe Kalan Hamle Sayısı:0
+A oyuncusundan önce erişemeyeceği için A'nın hedefini hesaplamaz. X:3	Y:4
+B oyuncusundan önce erişemeyeceği için B'nın hedefini hesaplamaz. X:4	Y:17
+C oyuncusundan önce erişemeyeceği için C'nın hedefini hesaplamaz. X:15	Y:3
+HEDEF BELİRLENDİ| X:17	Y:18	HAMLE SAYISI:3
+Y koordinatı bir adım artar. Sağ yönlüdür.
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+HEDEFE ULAŞIR.
+Hamle Hakkı Bitince Konumu| X:17	Y:17	Hedefe Kalan Hamle Sayısı:0
+A oyuncusundan önce erişemeyeceği için A'nın hedefini hesaplamaz. X:3	Y:3
+B oyuncusundan önce erişemeyeceği için B'nın hedefini hesaplamaz. X:2	Y:18
+C oyuncusundan önce erişemeyeceği için C'nın hedefini hesaplamaz. X:12	Y:5
+HEDEF BELİRLENDİ| X:15	Y:17	HAMLE SAYISI:3
+Y koordinatı bir adım azalır. Sol yönlüdür.
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+HEDEFE ULAŞIR.
+Hamle Hakkı Bitince Konumu| X:15	Y:15	Hedefe Kalan Hamle Sayısı:0
+A oyuncusundan önce erişemeyeceği için A'nın hedefini hesaplamaz. X:3	Y:2
+B oyuncusundan önce erişemeyeceği için B'nın hedefini hesaplamaz. X:5	Y:15
+C oyuncusundan önce erişemeyeceği için C'nın hedefini hesaplamaz. X:12	Y:5
+HEDEF BELİRLENDİ| X:16	Y:16	HAMLE SAYISI:2
+Y koordinatı bir adım azalır. Sol yönlüdür.
+X koordinatı bir adım artar. Aşağı yönlüdür.
+HEDEFE ULAŞIR.
+Hamle Hakkı Bitince Konumu| X:16	Y:16	Hedefe Kalan Hamle Sayısı:0
+A oyuncusundan önce erişemeyeceği için A'nın hedefini hesaplamaz. X:5	Y:4
+B oyuncusundan önce erişemeyeceği için B'nın hedefini hesaplamaz. X:5	Y:15
+C oyuncusundan önce erişemeyeceği için C'nın hedefini hesaplamaz. X:12	Y:6
+HEDEF BELİRLENDİ| X:11	Y:16	HAMLE SAYISI:5
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+Hamle Hakkı Bitince Konumu| X:13	Y:13	Hedefe Kalan Hamle Sayısı:2
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+HEDEFE ULAŞIR.
+Hamle Hakkı Bitince Konumu| X:11	Y:11	Hedefe Kalan Hamle Sayısı:0
+A oyuncusundan önce erişemeyeceği için A'nın hedefini hesaplamaz. X:5	Y:5
+B oyuncusundan önce erişemeyeceği için B'nın hedefini hesaplamaz. X:10	Y:16
+C oyuncusundan önce erişemeyeceği için C'nın hedefini hesaplamaz. X:12	Y:10
+HEDEF BELİRLENDİ| X:12	Y:16	HAMLE SAYISI:1
+X koordinatı bir adım artar. Aşağı yönlüdür.
+HEDEFE ULAŞIR.
+Hamle Hakkı Bitince Konumu| X:12	Y:12	Hedefe Kalan Hamle Sayısı:0
+A oyuncusundan önce erişemeyeceği için A'nın hedefini hesaplamaz. X:5	Y:6
+B oyuncusundan önce erişemeyeceği için B'nın hedefini hesaplamaz. X:8	Y:17
+C oyuncusundan önce erişemeyeceği için C'nın hedefini hesaplamaz. X:13	Y:10
+HEDEF BELİRLENDİ| X:13	Y:19	HAMLE SAYISI:4
+Y koordinatı bir adım artar. Sağ yönlüdür.
+Y koordinatı bir adım artar. Sağ yönlüdür.
+Y koordinatı bir adım artar. Sağ yönlüdür.
+Hamle Hakkı Bitince Konumu| X:12	Y:12	Hedefe Kalan Hamle Sayısı:1
+X koordinatı bir adım artar. Aşağı yönlüdür.
+HEDEFE ULAŞIR.
+Hamle Hakkı Bitince Konumu| X:13	Y:13	Hedefe Kalan Hamle Sayısı:0
+A oyuncusundan önce erişemeyeceği için A'nın hedefini hesaplamaz. X:4	Y:8
+B oyuncusundan önce erişemeyeceği için B'nın hedefini hesaplamaz. X:10	Y:13
+C oyuncusundan önce erişemeyeceği için C'nın hedefini hesaplamaz. X:18	Y:9
+HEDEF BELİRLENDİ| X:12	Y:19	HAMLE SAYISI:1
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+HEDEFE ULAŞIR.
+Hamle Hakkı Bitince Konumu| X:12	Y:12	Hedefe Kalan Hamle Sayısı:0
+A oyuncusundan önce erişemeyeceği için A'nın hedefini hesaplamaz. X:4	Y:9
+B oyuncusundan önce erişemeyeceği için B'nın hedefini hesaplamaz. X:8	Y:9
+C oyuncusundan önce erişemeyeceği için C'nın hedefini hesaplamaz. X:18	Y:9
+HEDEF BELİRLENDİ| X:14	Y:18	HAMLE SAYISI:3
+Y koordinatı bir adım azalır. Sol yönlüdür.
+X koordinatı bir adım artar. Aşağı yönlüdür.
+X koordinatı bir adım artar. Aşağı yönlüdür.
+HEDEFE ULAŞIR.
+Hamle Hakkı Bitince Konumu| X:14	Y:14	Hedefe Kalan Hamle Sayısı:0
+A oyuncusundan önce erişemeyeceği için A'nın hedefini hesaplamaz. X:3	Y:9
+B oyuncusundan önce erişemeyeceği için B'nın hedefini hesaplamaz. X:8	Y:9
+C oyuncusundan önce erişemeyeceği için C'nın hedefini hesaplamaz. X:19	Y:9
+HEDEF BELİRLENDİ| X:15	Y:19	HAMLE SAYISI:2
+Y koordinatı bir adım artar. Sağ yönlüdür.
+X koordinatı bir adım artar. Aşağı yönlüdür.
+HEDEFE ULAŞIR.
+Hamle Hakkı Bitince Konumu| X:15	Y:15	Hedefe Kalan Hamle Sayısı:0
+A oyuncusundan önce erişemeyeceği için A'nın hedefini hesaplamaz. X:2	Y:10
+B oyuncusundan önce erişemeyeceği için B'nın hedefini hesaplamaz. X:6	Y:9
+C oyuncusundan önce erişemeyeceği için C'nın hedefini hesaplamaz. X:17	Y:9
+HEDEF BELİRLENDİ| X:16	Y:18	HAMLE SAYISI:2
+Y koordinatı bir adım azalır. Sol yönlüdür.
+X koordinatı bir adım artar. Aşağı yönlüdür.
+HEDEFE ULAŞIR.
+Hamle Hakkı Bitince Konumu| X:16	Y:16	Hedefe Kalan Hamle Sayısı:0
+A oyuncusundan önce erişemeyeceği için A'nın hedefini hesaplamaz. X:1	Y:10
+B oyuncusundan önce erişemeyeceği için B'nın hedefini hesaplamaz. X:4	Y:10
+C oyuncusundan önce erişemeyeceği için C'nın hedefini hesaplamaz. X:16	Y:11
+HEDEF BELİRLENDİ| X:0	Y:6	HAMLE SAYISI:28
+Y koordinatı bir adım azalır. Sol yönlüdür.
+Y koordinatı bir adım azalır. Sol yönlüdür.
+Y koordinatı bir adım azalır. Sol yönlüdür.
+Hamle Hakkı Bitince Konumu| X:16	Y:16	Hedefe Kalan Hamle Sayısı:25
+Y koordinatı bir adım azalır. Sol yönlüdür.
+Y koordinatı bir adım azalır. Sol yönlüdür.
+Y koordinatı bir adım azalır. Sol yönlüdür.
+Hamle Hakkı Bitince Konumu| X:16	Y:16	Hedefe Kalan Hamle Sayısı:22
+Y koordinatı bir adım azalır. Sol yönlüdür.
+Y koordinatı bir adım azalır. Sol yönlüdür.
+Y koordinatı bir adım azalır. Sol yönlüdür.
+Hamle Hakkı Bitince Konumu| X:16	Y:16	Hedefe Kalan Hamle Sayısı:19
+Y koordinatı bir adım azalır. Sol yönlüdür.
+Y koordinatı bir adım azalır. Sol yönlüdür.
+Y koordinatı bir adım azalır. Sol yönlüdür.
+Hamle Hakkı Bitince Konumu| X:16	Y:16	Hedefe Kalan Hamle Sayısı:16
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+Hamle Hakkı Bitince Konumu| X:13	Y:13	Hedefe Kalan Hamle Sayısı:13
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+Hamle Hakkı Bitince Konumu| X:10	Y:10	Hedefe Kalan Hamle Sayısı:10
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+Hamle Hakkı Bitince Konumu| X:7	Y:7	Hedefe Kalan Hamle Sayısı:7
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+Hamle Hakkı Bitince Konumu| X:4	Y:4	Hedefe Kalan Hamle Sayısı:4
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+Hamle Hakkı Bitince Konumu| X:1	Y:1	Hedefe Kalan Hamle Sayısı:1
+X koordinatı bir adım azalır. Yukarı yönlüdür.
+HEDEFE ULAŞIR.
+Hamle Hakkı Bitince Konumu| X:0	Y:0	Hedefe Kalan Hamle Sayısı:0
+A oyuncusundan önce erişemeyeceği için A'nın hedefini hesaplamaz. X:10	Y:8
+C oyuncusundan önce erişemeyeceği için C'nın hedefini hesaplamaz. X:2	Y:7
+HEDEF BELİRLENDİ| X:19	Y:16	HAMLE SAYISI:29
+Y koordinatı bir adım artar. Sağ yönlüdür.
+Y koordinatı bir adım artar. Sağ yönlüdür.
+Y koordinatı bir adım artar. Sağ yönlüdür.
+Hamle Hakkı Bitince Konumu| X:0	Y:0	Hedefe Kalan Hamle Sayısı:26
+ALTINI BİTTİĞİ İÇİN OYUNDAN ATILDI.
+ALTINI BİTTİĞİ İÇİN OYUNDAN ATILDI.
+ALTINI BİTTİĞİ İÇİN OYUNDAN ATILDI.
+ALTINI BİTTİĞİ İÇİN OYUNDAN ATILDI.
+ALTINI BİTTİĞİ İÇİN OYUNDAN ATILDI.
+ALTINI BİTTİĞİ İÇİN OYUNDAN ATILDI.
+ALTINI BİTTİĞİ İÇİN OYUNDAN ATILDI.
+ALTINI BİTTİĞİ İÇİN OYUNDAN ATILDI.
+ALTINI BİTTİĞİ İÇİN OYUNDAN ATILDI.
+ALTINI BİTTİĞİ İÇİN OYUNDAN ATILDI.
+ALTINI BİTTİĞİ İÇİN OYUNDAN ATILDI.
+ALTINI BİTTİĞİ İÇİN OYUNDAN ATILDI.
+ALTINI BİTTİĞİ İÇİN OYUNDAN ATILDI.
+ALTINI BİTTİĞİ İÇİN OYUNDAN ATILDI.
+ALTINI BİTTİĞİ İÇİN OYUNDAN ATILDI.
+ALTINI BİTTİĞİ İÇİN OYUNDAN ATILDI.
+ALTINI BİTTİĞİ İÇİN OYUNDAN ATILDI.
+ALTINI BİTTİĞİ İÇİN OYUNDAN ATILDI.
+ALTINI BİTTİĞİ İÇİN OYUNDAN ATILDI.
+ALTINI BİTTİĞİ İÇİN OYUNDAN ATILDI.
+ALTINI BİTTİĞİ İÇİN OYUNDAN ATILDI.
+ALTINI BİTTİĞİ İÇİN OYUNDAN ATILDI.
+ALTINI BİTTİĞİ İÇİN OYUNDAN ATILDI.
+KAZILACAK ALTIN KALMADIĞI İÇİN OYUN BİTER!
