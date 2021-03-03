@@ -1,5 +1,6 @@
 # Gold Collecting Game
 Gold collecting game with a board made up of dynamic matrix. 
+
 The language of the game is Turkish.
 
 Tahtanın köşelerinde dört oyuncu bulunur. 
