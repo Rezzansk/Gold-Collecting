@@ -40,3 +40,10 @@ altın maliyetindedir.
 
 Oyun mevcut altınlar bitince sona ermektedir.
 
+Start Screen
+------------------
+![start](https://user-images.githubusercontent.com/68162930/109740096-bfbfbb80-7bdb-11eb-88f5-0addfe7bff8f.png)
+Game Screen
+---------------------
+![game](https://user-images.githubusercontent.com/68162930/109740098-c2221580-7bdb-11eb-9f1c-923f40fef497.png)
+
